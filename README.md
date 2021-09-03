@@ -1,2 +1,2 @@
 # Salary-Calculator
-This is my Salary Calculator i made in Python. More details in the README file.
+This is my Salary Calculator i made in Python. Basically you enter the ammount of money you make per hour and then you choose per day, per week, per month or per year, and the calculator will tell you how much you make in that time. DO NOT DISTRIBUTE AS YOUR OWN/DO NOT SELL THIS CODE WITHOUT MY PERMISSION. Contact me at David™#4383 on Discord if you need any help or if you want to ask a question!
